@@ -1,0 +1,9 @@
+CHAT APPLICATION IN JAVA
+
+
+Login Details
+
+Username: harryden
+Password: admin
+
+For database file, upload it in phpMyAdmin with the help of XAMPP, save the SQL file in phpMyAdmin as 'chatapp_db'
